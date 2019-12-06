@@ -5,7 +5,7 @@
 데이터셋 : [ADNI](http://adni.loni.usc.edu/)
 
 
-#### Requirement
+## Installation
 ```sh
 conda create -n adprediction python=3.6
 source activate adprediction
