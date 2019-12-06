@@ -6,7 +6,7 @@
 
 
 #### Requirement
-'''
+'''sh
 conda create -n adprediction python=3.6
 source activate adprediction
 conda install pytorch=0.4.0 cuda90 -c pytorch
