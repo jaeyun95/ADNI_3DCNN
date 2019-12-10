@@ -1,8 +1,8 @@
-# ADNI_3DCNN
+# AD Prediction
 
-3DCNN을 이용한 치매 예측(Alzheimer prediction with 3DCNN)
+앙상블을 이용한 치매 예측(Alzheimer prediction with Ansemble)
 
-데이터셋 : [ADNI](http://adni.loni.usc.edu/)
+dataset : [ADNI](http://adni.loni.usc.edu/)
 
 
 ## Installation
