@@ -2,7 +2,7 @@
 
 앙상블을 이용한 치매 예측(Alzheimer prediction with Ansemble)
 
-dataset : [ADNI](http://adni.loni.usc.edu/)
+dataset : [ADNI Dataset Download](http://adni.loni.usc.edu/)
 
 
 ## Installation
